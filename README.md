@@ -14,13 +14,16 @@
 
 * 本项目前端为智能对话机器人汇总与系统监控汇总，根据用户不同角色进行不同内容展示：
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>前端示意图</p></figcaption></figure>
+<figure><img src="https://github.com/tonyhuang2022/GenAI-Platform-doc/blob/main/.gitbook/assets/image.png" alt=""><figcaption><p>前端示意图</p></figcaption></figure>
+
+
+
 
 ### 对话机器人
 
 * 用户可以直接点击进入智能对话机器人详情页面
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>智能机器人详情页面</p></figcaption></figure>
+<figure><img src="https://github.com/tonyhuang2022/GenAI-Platform-doc/blob/main/.gitbook/assets/image (1).png" alt=""><figcaption><p>智能机器人详情页面</p></figcaption></figure>
 
 * 在聊天框中，用户输入信息，使用Enter键或者鼠标点击发送按钮即可进行交谈，智能机器人流式返回。
 * 点击新建对话按钮，用户可以开启新的对话。
