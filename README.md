@@ -38,12 +38,11 @@
 * 普通用户：
   * 普通用户无法登录后台，仅可以使用前端。
   * 添加普通用户方法为选择点击用户栏->点击右上角增加用户：
-  *
 
-      <figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (2).png" alt=""><figcaption><p>添加普通用户，点击增加用户按钮</p></figcaption></figure>
-  *
+<figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (2).png" alt=""><figcaption><p>添加普通用户，点击增加用户按钮</p></figcaption></figure>
 
-      <figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (3).png" alt=""><figcaption><p>按要求输入相关信息</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (3).png" alt=""><figcaption><p>按要求输入相关信息</p></figcaption></figure>
+
   * 请注意，添加普通用户但未授权的情况下，普通用户无法看到任何智能机器人。
 * 管理员用户：
   * 超级管理员用户可以赋予普通用户管理员权限：点击该用户，进入权限选项，
@@ -54,9 +53,8 @@
 <figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (4).png" alt=""><figcaption><p>创建管理员用户</p></figcaption></figure>
 
 * 相比于普通用户，管理员用户可以登录系统后台进行管理，默认客户管理员用户后台权限如下：
-  *
+<figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-      <figure><img src="https://raw.githubusercontent.com/tonyhuang2022/GenAI-Platform-doc/main/.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 * 超级管理员用户：超级管理员用户有用所有系统权限，暂不对非私有化部署客户开放。
 
 #### 组管理
